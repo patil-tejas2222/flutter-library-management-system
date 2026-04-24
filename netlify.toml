@@ -1,0 +1,4 @@
+[build]
+  base = "library_management"
+  command = "flutter build web --release"
+  publish = "library_management/build/web"
